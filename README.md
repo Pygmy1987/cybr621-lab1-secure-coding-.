@@ -65,4 +65,4 @@ All versions may leave an incomplete destination after a copy failure. They do n
 
 ## AI Assistance
 
-AI assistants generated the original programs. Codex provided step-by-step help with testing, reviewing the code, making the improvements, and drafting documentation. The edits and terminal tests were performed manually in the Codespace.
+I used two AI coding assistants to generate programs from the same prompt, as required for this assignment. I compared their solutions, tested them in the Codespace, and used AI guidance to review the code and make improvements.
